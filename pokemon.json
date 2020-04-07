@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "pikachu",
+    "battlePoint": 25,
+    "type": "normal"
+  },
+  {
+    "id": 3,
+    "name": "togepi",
+    "battlePoint": 5,
+    "type": "special"
+  },
+  {
+    "id": 4,
+    "name": "mitu",
+    "battlePoint": 99999999,
+    "type": "special"
+  },
+  {
+    "id": 5,
+    "name": "baygon",
+    "battlePoint": -99999999,
+    "type": "special"
+  }
+]
